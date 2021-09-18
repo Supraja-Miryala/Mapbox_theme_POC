@@ -1,0 +1,122 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "site1",
+        "description": "<b>Port Arthur, Texas, USA<b><table><tr><td>Bentley Priority Score(BPS)</td><td>800</td></tr><tr><td>Machine Alarms</td><td>328</td></tr><tr><td>Device Alarms</td><td>91</td></tr></table>",
+	"alertLevel": "L4",
+	"alarms": 500        		    		
+      },
+      "geometry": {
+        "coordinates": [-94.57031250000001, 30.14512718337613],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "site2",
+        "description": "<b>Tuna Port, Gujarat, India<b><table><tr><td>Bentley Priority Score(BPS)</td><td>800</td></tr><tr><td>Machine Alarms</td><td>328</td></tr><tr><td>Device Alarms</td><td>91</td></tr></table>",
+	"alertLevel": "L3",
+	"alarms": 223        		    		
+      },
+      "geometry": {
+        "coordinates": [71.36718750000001, 22.268764039073968],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "site3",
+        "description": "<b>T Port, Angola<b><table><tr><td>Bentley Priority Score(BPS)</td><td>54</td></tr><tr><td>Machine Alarms</td><td>38</td></tr><tr><td>Device Alarms</td><td>11</td></tr></table>",
+	"alertLevel": "L2",
+	"alarms": 54        		    		
+      },
+      "geometry": {
+        "coordinates": [10.195312500000002, 1.7575368113083254],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "site4",
+        "description": "<b>Port X, Texas, USA<b><table><tr><td>Bentley Priority Score(BPS)</td><td>67</td></tr><tr><td>Machine Alarms</td><td>28</td></tr><tr><td>Device Alarms</td><td>9</td></tr></table>",
+	"alertLevel": "L2",
+	"alarms": 67        		    		
+      },
+      "geometry": {
+        "coordinates": [-86.83593750000001, 31.653381399664],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "site5",
+        "description": "<b>Port V, Venezuela<b><table><tr><td>Bentley Priority Score(BPS)</td><td>48</td></tr><tr><td>Machine Alarms</td><td>38</td></tr><tr><td>Device Alarms</td><td>9</td></tr></table>",
+	"alertLevel": "L2",
+	"alarms": 48        		    		
+      },
+      "geometry": {
+        "coordinates": [-75.93750000000001, 9.102096738726456],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "site6",
+        "description": "<b>Port A, Indonesia<b><table><tr><td>Bentley Priority Score(BPS)</td><td>151</td></tr><tr><td>Machine Alarms</td><td>138</td></tr><tr><td>Device Alarms</td><td>21</td></tr></table>",
+	"alertLevel": "L3",
+	"alarms": 151        		    		
+      },
+      "geometry": {
+        "coordinates": [101.25000000000001, 3.5134210456400448],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+     "properties": {
+        "title": "site7",
+        "description": "<b>Port J, Japan<b><table><tr><td>Bentley Priority Score(BPS)</td><td>43</td></tr><tr><td>Machine Alarms</td><td>38</td></tr><tr><td>Device Alarms</td><td>9</td></tr></table>",
+	"alertLevel": "L2",
+	"alarms": 43        		    		
+      },
+      "geometry": {
+        "coordinates": [132.18750000000003, 34.30714385628804],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "site8",
+        "description": "<b>Port A, UK<b><table><tr><td>Bentley Priority Score(BPS)</td><td>17</td></tr><tr><td>Machine Alarms</td><td>5</td></tr><tr><td>Device Alarms</td><td>1</td></tr></table>",
+	"alertLevel": "L1",
+	"alarms": 17        		    		
+      },
+      "geometry": {
+        "coordinates": [-2.8125, 55.7765730186677],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "site9",
+        "description": "<b>Port A, Saudi Arabia<b><table><tr><td>Bentley Priority Score(BPS)</td><td>11</td></tr><tr><td>Machine Alarms</td><td>8</td></tr><tr><td>Device Alarms</td><td>1</td></tr></table>",
+	"alertLevel": "L1",
+	"alarms": 11        		    		
+      },
+      "geometry": {
+        "coordinates": [39.72656250000001, 23.241346102386135],
+        "type": "Point"
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}
